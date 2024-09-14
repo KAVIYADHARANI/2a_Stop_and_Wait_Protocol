@@ -45,7 +45,7 @@ while True:
 ## OUTPUT
 
 ## CLIENT:
-![322496676-285f80ef-2e8d-41a6-b734-0fb4f35e819e](https://github.com/user-attachments/assets/b0605213-3742-4a97-b02d-c74e0cbd9e5f)
+<imgsrc="https://github.com/user-attachments/assets/407cef8e-5798-478b-8433-98dcb9cc1bbc">
 
 ## SERVER:
 ![322496812-ca3a1f95-8af3-4ac3-9768-0609e6ece1a4](https://github.com/user-attachments/assets/9d53700b-7beb-4204-96cb-8fb3353190e6)
